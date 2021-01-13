@@ -1,6 +1,7 @@
 # OJ
 
-These are the solution I have done for the OJ paltforms.
+这个是我个人在一些 OJ 平台学习技能和算法的解答代码，所有代码已 AC 。
+
 
 - [luogu.org](https://www.luogu.com.cn/ "luogu")
 
